@@ -3,9 +3,9 @@ Website Project for Lomba IOT by Daniel, Dustin, Edward of Universitas Katolik W
 
 Inilah cara menggunakan situs web tersebut: 
 
-Di bagian atas situs web, terdapat bilah navigasi yang memungkinkan pengguna untuk menuju ke bagian tertentu dari situs web ketika Anda mengklik artikel yang diinginkan. 
+- Di bagian atas situs web, terdapat bilah navigasi yang memungkinkan pengguna untuk menuju ke bagian tertentu dari situs web ketika Anda mengklik artikel yang diinginkan. 
 
-Tangkapan layar di bawah ini menunjukkan tombol navigasi dan lokasi yang diinginkan.
+- Tangkapan layar di bawah ini menunjukkan tombol navigasi dan lokasi yang diinginkan.
 
 ![2024_09_28_0yh_Kleki](https://github.com/user-attachments/assets/20f92d2d-ebfc-4a67-9783-b16aaec26526)
 
@@ -41,4 +41,14 @@ Destinasi:
 
 6.
 <img width="1422" alt="Screenshot 2024-09-28 at 22 40 47" src="https://github.com/user-attachments/assets/70fe94bb-7762-42b3-a168-1254d78494b9">
+
+
+- Berpindah ke elemen lain di situs web, jika pengguna mengklik tombol "Pilih Donat", pengguna akan dibawa ke bagian "Penjualan Terbaik". 
+
+![2024_09_29_0h9_Kleki](https://github.com/user-attachments/assets/a2efb058-7667-4f89-9003-ad484a34597d)
+
+- Bagian tersebut memiliki tombol, tetapi saat ini belum memiliki fungsi. Kami berencana untuk menambahkan fitur di mana pengguna dapat menambahkan produk yang mereka pilih ke dalam keranjang dan di sana mereka dapat melakukan pembayaran. 
+
+![2024_09_29_0hj_Kleki](https://github.com/user-attachments/assets/d6c73db4-aca2-4f29-831e-cde88f6e1ad4)
+
 
