@@ -102,10 +102,7 @@ https://youtu.be/G56CRtBMkZc
 -Lighthouse report: 
 
 
-<img width="1440" alt="Screenshot 2024-09-29 at 20 21 01" src="https://github.com/user-attachments/assets/e83fedc5-b849-4421-bdac-f9e9d616f335">
-
-
-![image](https://github.com/user-attachments/assets/61529f19-e3af-484c-90a2-f1431ea9daad)
+![image](https://github.com/user-attachments/assets/0b5fafbb-e17c-43c5-9e56-efe291a6b9fa)
 
 
 
