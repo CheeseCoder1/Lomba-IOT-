@@ -1,5 +1,8 @@
 # Lomba-IOT-
-Website Project for Lomba IOT by Daniel, Dustin, Edward of Universitas Katolik Widya Mandala Surabaya
+
+Cloud Informatika UKWMS | Otelo Donuts adalah file .zip yang berisi semua aset yang digunakan dalam proyek serta semua file .html, .css, dan .javascript.
+
+Website Project for Lomba IOT by Cloud Informatika UKWMS | Daniel, Dustin, Edward
 
 Inilah cara menggunakan situs web tersebut: 
 
