@@ -109,6 +109,6 @@ https://youtu.be/G56CRtBMkZc
 https://github.com/user-attachments/assets/cd7eef8c-fe21-44b7-81bd-b5a93eb7533d
 
 
-![OteloLogo](https://github.com/user-attachments/assets/0185cdac-ef7d-426e-929c-9cb638ca20cb)
+
 
 
