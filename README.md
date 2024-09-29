@@ -22,7 +22,9 @@ Tangkapan layar di bawah ini menunjukkan tombol navigasi dan lokasi yang diingin
 6. Jika diklik, itu akan membawa pengguna ke bagian "Locations".
 
 Destinasi:
+
 1.
+
 <img width="589" alt="Screenshot 2024-09-28 at 22 41 08" src="https://github.com/user-attachments/assets/bed350bc-7e1a-45ca-bd52-0484a1b3cab9">
 
 2.
