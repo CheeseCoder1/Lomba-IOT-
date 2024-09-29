@@ -99,3 +99,8 @@ Destinasi:
 
 https://youtu.be/G56CRtBMkZc
 
+-Lighthouse report: 
+
+![image](https://github.com/user-attachments/assets/3cb84f6b-5101-47f1-a1c7-8f4c0c73f500)
+
+
